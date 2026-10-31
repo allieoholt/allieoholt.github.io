@@ -1,0 +1,31 @@
+body    {
+    color: #3C493F;
+    background-color:#F0F7F4;
+}
+header{
+    background-color:#B3BFB8;
+    color: #3C493F;
+    margin: 0; 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+    .centered{
+        text-align: center;
+    }
+h1{
+    background-color: #3C493F;
+    color: #F0F7F4;
+    padding: 40px 300px 40px;
+    font-size: 60px;
+}
+footer{
+    background-color: #7E8D85;
+}
+    .centered{
+    text-align: center;
+}
+.intro  {
+    max-width: 500px;
+    text-align: left;
+}
